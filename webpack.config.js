@@ -1,4 +1,5 @@
 const path = require('path');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   entry: './src/index.js',
@@ -7,6 +8,13 @@ module.exports = {
     filename: 'bundle.js',
     publicPath: '/',
   },
+  plugins: [
+    new CopyWebpackPlugin({
+      patterns: [
+        { from: 'public', to: '.' }
+      ]
+    })
+  ],
   module: {
     rules: [
       {
