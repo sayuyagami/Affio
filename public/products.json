@@ -1,14 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Product 1",
-    "image": "https://via.placeholder.com/150",
-    "amazonLink": "https://www.amazon.com/dp/EXAMPLE1?tag=your-affiliate-id"
+    "name": "Men's Cotton Blend T-Shirt with Round Neck Full Sleeves Quilted Pattern",
+    "image": "assets/images/outfit1.jpg",
+    "amazonLink": "https://amzn.to/4kW8uX8"
   },
   {
     "id": 2,
-    "name": "Product 2",
-    "image": "https://via.placeholder.com/150",
-    "amazonLink": "https://www.amazon.com/dp/EXAMPLE2?tag=your-affiliate-id"
+    "name": "Cotton Fleece Hooded Sweatshirt",
+    "image": "assets/images/outfit2.jpg",
+    "amazonLink": "https://amzn.to/4b5kO3T"
+  },
+  {
+    "id": 3,
+    "name": "Men's Satin Shirt, Long Sleeve",
+    "image": "assets/images/outfit3.jpg",
+    "amazonLink": "https://amzn.to/4b9MbcY"
+  },
+  {
+    "id": 4,
+    "name": "Mens Winter Wear Long Trench Coat| Overcoat",
+    "image": "assets/images/outfit4.jpg",
+    "amazonLink": "https://amzn.to/46r4lo9"
+  },
+  {
+    "id": 5,
+    "name": "Solid Hooded Cotton Fleece Sweatshirt ",
+    "image": "assets/images/outfit5.jpg",
+    "amazonLink": "https://amzn.to/4aRJ8oM"
   }
 ]
