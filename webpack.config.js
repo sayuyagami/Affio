@@ -8,13 +8,6 @@ module.exports = {
     filename: 'bundle.js',
     publicPath: '/',
   },
-  plugins: [
-    new CopyWebpackPlugin({
-      patterns: [
-        { from: 'public', to: '.' }
-      ]
-    })
-  ],
   module: {
     rules: [
       {
